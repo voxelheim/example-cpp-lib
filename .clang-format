@@ -1,0 +1,14 @@
+---
+Language: Cpp
+AccessModifierOffset: -4
+AlignAfterOpenBracket: AlwaysBreak # Align
+AllowShortIfStatementsOnASingleLine: true # false
+BinPackArguments: false # true
+BinPackParameters: false # true
+BreakStringLiterals: false # true
+ColumnLimit: 0 # 80
+FixNamespaceComments: false # true
+IndentWidth: 4 # 2
+MaxEmptyLinesToKeep: 9999 # 1
+ReflowComments: false # true
+IndentPPDirectives: AfterHash # None
